@@ -1,0 +1,22 @@
+.maincontent{
+    width: 80%;
+    height: auto;
+    align-items: center;
+}
+
+.grid img{
+    width: 450px;
+    height: 450px;
+    object-fit: cover;
+}
+
+.load{
+    border: 1px;
+    
+}
+
+.titulo{
+    text-align: center;
+    color:crimson;
+    font-size: 30px;
+}

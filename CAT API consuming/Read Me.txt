@@ -1,0 +1,2 @@
+This was a learning exercise, i was trying to consume an external API for the fisrt time.
+i call it a success, i succesfully got an image from the Cat Api, although i didnt actually focused on page styling.
